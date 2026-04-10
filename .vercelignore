@@ -1,0 +1,19 @@
+# Arquivos e pastas para ignorar durante o build no Vercel
+.git/
+.github/
+.env
+.env.example
+.env.homologacao
+node_modules/
+npm-debug.log
+.DS_Store
+.vscode/
+.idea/
+README.md
+SECRETS.md
+.gitignore
+.docker/
+.dockerignore
+src/__tests__/
+vitest.config.ts
+eslint.config.js
